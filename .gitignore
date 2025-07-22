@@ -1,0 +1,27 @@
+# Logs
+report.txt
+
+# Package Lock Files
+package-lock.json
+yarn.lock
+
+# Dependencies
+node_modules/
+.yarn/
+
+# Build output
+dist/
+
+# Packaging
+*.xpi
+*.zip
+
+# Reports
+report.txt
+
+# Config
+vite.config.js.timestamp-*
+
+# yarn
+.pnp.cjs
+.pnp.loader.mjs
